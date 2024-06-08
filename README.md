@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AN-2101.
 - 👀 I’m interested in food, music and books.
-- 🌱 I’m currently learning electrical engineering :3.
+- 🌱 I’m currently working as an embedded software enginner.
 - 📫 How to reach me ducanh1962001@gmail.com.
 
 <!---
